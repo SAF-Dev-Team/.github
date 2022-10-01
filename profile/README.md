@@ -1,4 +1,4 @@
-![banner](Logo.png)
+![banner](/profile/Logo.png)
 
 Welcome to the home of San Andreas' Finest's Development Team
 =============================================================
